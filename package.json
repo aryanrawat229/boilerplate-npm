@@ -13,5 +13,6 @@
 	},
 	"author": "Aryan Rawat",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "npm", "boilerplate", "nodejs"],
 	"license":"MIT"
 }
